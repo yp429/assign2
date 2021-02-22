@@ -3,7 +3,7 @@ title: "Assigment: Trend Surfaces"
 date: "`r Sys.Date()`"
 author: "Yunxuan Pei"
 output:
-   github_document:
+   html_document:
      toc: TRUE
      toc_float: TRUE
      theme: "united"
